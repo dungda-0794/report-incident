@@ -1,0 +1,12 @@
+{
+    "regex": "^(.*)$",
+    "chatwork": {
+        "token": "",
+        "room": "",
+        "to": "[toall]",
+        "remove": ""
+    },
+    "serve": {
+        "port": "21308"
+    }
+}
